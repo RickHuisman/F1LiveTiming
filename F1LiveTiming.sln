@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F1LiveTiming", "F1LiveTiming\F1LiveTiming.csproj", "{4B598222-FC10-44F5-A403-BFF0B497497D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F1LiveTimingAPI", "F1LiveTimingAPI\F1LiveTimingAPI.csproj", "{6B8B19DF-162C-413D-B787-BEDCBFA0F024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B598222-FC10-44F5-A403-BFF0B497497D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B598222-FC10-44F5-A403-BFF0B497497D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B598222-FC10-44F5-A403-BFF0B497497D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B598222-FC10-44F5-A403-BFF0B497497D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8B19DF-162C-413D-B787-BEDCBFA0F024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8B19DF-162C-413D-B787-BEDCBFA0F024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8B19DF-162C-413D-B787-BEDCBFA0F024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8B19DF-162C-413D-B787-BEDCBFA0F024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
